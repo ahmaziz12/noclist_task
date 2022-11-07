@@ -1,0 +1,8 @@
+Make sure you have ruby installed (version 2.6+)
+You can run it as excutable, give task.rb file excute permissions by:
+  chmod +x task.rb
+and run on terminal as ./task.rb
+
+Alternative:
+You can also run task.rb on terminal by following command:
+ruby task.rb
